@@ -57,8 +57,19 @@ group by location
 
 select date, sum(new_cases) as TotalCases, sum(cast(total_deaths as int)) as TotalDeathCount, max(round(((total_cases/population) * 100),2)) as Highest_percentaje_with_covid
 from Death
+where location is not null
 group by date
 order by TotalCases desc
+
+-- Global numbers by date for Tableau
+
+Select SUM(new_cases) as total_cases, SUM(cast(new_deaths as int)) as total_deaths, SUM(cast(new_deaths as int))/SUM(New_Cases)*100 as DeathPercentage
+From Death
+--Where location like '%states%'
+where continent is not null 
+--Group By date
+order by 1,2
+
 
 -- Joining tables
 
