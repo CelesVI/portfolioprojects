@@ -11,6 +11,6 @@ Data analysis course made by alex on his youtube channel.
 It has custom queries made by me.
 It goes in depth about sql, data exploration and data visualization.
 
-# Tech
+# Technologies
 * SQL
 * Tableau
