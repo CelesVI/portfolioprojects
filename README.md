@@ -14,3 +14,7 @@ It goes in depth about sql, data exploration and data visualization.
 # Technologies
 * SQL
 * Tableau
+
+# Link to public tableau dashboards.
+
+[Covid dashboard](https://public.tableau.com/app/profile/federico.bravin/viz/Firstcoviddashboard/Dashboard1?publish=yes)
