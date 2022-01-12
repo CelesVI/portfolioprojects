@@ -14,6 +14,12 @@ It goes in depth about sql, data exploration and data visualization.
 # Technologies
 * SQL
 * Tableau
+* Microsoft Excel
+
+# Images
+Covid dashboard
+
+![Algorithm schema](./images/coviddashboard.png)
 
 # Link to public tableau dashboards.
 
