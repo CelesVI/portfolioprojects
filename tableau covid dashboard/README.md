@@ -10,4 +10,4 @@ First visualization made in Tableau, based on the dataset made in [First analysi
 * Microsoft SQL server.
 
 # Images
-[!Algorithm Schema](./images/coviddashboard.png)
+![Algorithm schema](./images/coviddashboard.png)
