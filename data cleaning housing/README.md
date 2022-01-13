@@ -7,3 +7,7 @@ En dataset se encuentra el original junto al limpio.
 Data cleaning starting from an original dataset and ending with a clean one.
 Cleaning of null, division of data in fields to columns, data type transformation, etc.
 The original dataset is located next to the cleaned dataset.
+
+# Technologies
+* SQL
+* Microsoft SQL server
