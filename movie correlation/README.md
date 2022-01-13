@@ -18,7 +18,7 @@ Looking for the correlation between budget and earnings.
 
 Correlación tipo matriz / Matriz correlation
 
-![Algorithm schema](./images/matrizcorrelation.png)
+![Algorithm schema](./images/matrixcorrelation.png)
 
 Correlación tipo puntos / Scatter Plot correlation
 
