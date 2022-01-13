@@ -25,10 +25,10 @@ It goes in depth about sql, data exploration and data visualization.
 
 # Links to projects
 
-[1 - First analysis](https://github.com/CelesVI/portfolioprojects/tree/main/first%20analysis)
-[2 - Tableau Covid Dashboard](https://github.com/CelesVI/portfolioprojects/tree/main/tableau%20covid%20dashboard)
-[3 - Data cleaning](https://github.com/CelesVI/portfolioprojects/tree/main/data%20cleaning%20housing)
-[4 - Movies Correlation](https://github.com/CelesVI/portfolioprojects/tree/main/movie%20correlation)
+* [1 - First analysis](https://github.com/CelesVI/portfolioprojects/tree/main/first%20analysis)
+* [2 - Tableau Covid Dashboard](https://github.com/CelesVI/portfolioprojects/tree/main/tableau%20covid%20dashboard)
+* [3 - Data cleaning](https://github.com/CelesVI/portfolioprojects/tree/main/data%20cleaning%20housing)
+* [4 - Movies Correlation](https://github.com/CelesVI/portfolioprojects/tree/main/movie%20correlation)
 
 # Link to public tableau dashboards.
 
