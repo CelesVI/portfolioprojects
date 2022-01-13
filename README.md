@@ -16,6 +16,11 @@ It goes in depth about sql, data exploration and data visualization.
 * Tableau
 * Microsoft Excel
 
+# Skills
+* Data exploration
+* Data cleaning
+* Data visualization
+
 # Images
 Covid dashboard
 
