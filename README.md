@@ -35,6 +35,6 @@ It goes in depth about sql, data exploration and data visualization.
 * [3 - Data cleaning](https://github.com/CelesVI/portfolioprojects/tree/main/data%20cleaning%20housing)
 * [4 - Movies Correlation](https://github.com/CelesVI/portfolioprojects/tree/main/movie%20correlation)
 * [5 - Amazon web scraping](https://github.com/CelesVI/portfolioprojects/tree/main/amazon%20web%20scraping)
-* [6 - Tableau Airbnb Dashboard](https://public.tableau.com/app/profile/federico.bravin/viz/Firstcoviddashboard/Dashboard1)
+* [6 - Tableau Airbnb Dashboard](https://github.com/CelesVI/portfolioprojects/tree/main/tableau%20airbnb%20dashboard)
 
 
