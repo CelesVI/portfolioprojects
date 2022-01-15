@@ -11,3 +11,6 @@ First visualization made in Tableau, based on the dataset made in [First analysi
 
 # Images
 ![Algorithm schema](./images/coviddashboard.png)
+
+# Link to dashboard
+[Link](https://public.tableau.com/app/profile/federico.bravin/viz/Firstcoviddashboard/Dashboard1)
